@@ -1,3 +1,7 @@
-# website
+# about iwebsite
 
-> This is a seperate website from `noahrider.com`, this will be used for school/academic purposes only, and will show items in that area.
+> This is a website that will host my school projects, and more stuff like that
+
+## why is this called iwebsite?
+
+> because its a cool name
